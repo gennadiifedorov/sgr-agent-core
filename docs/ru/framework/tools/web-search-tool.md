@@ -6,7 +6,7 @@
 Выполняет поиск в интернете для получения актуальной информации с использованием Tavily Search API.
 
 Движку `tavily` нужен extra `search` (`pip install "sgr-agent-core[search]"`).
-Движки `brave` и `perplexity` работают по обычному HTTP и доступны в базовой установке.
+Движки `brave`, `perplexity` и `serply` работают по обычному HTTP и доступны в базовой установке.
 
 **Параметры**
 
